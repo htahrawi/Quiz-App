@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Why We use <br> Element",
+        "answer_1": "To MAke text Bold",
+        "answer_2": "To MAke text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Create Horizontal  Line",
+        "right_answer": "To Add Breakline"
+    },
+    {
+        "title": "Is <img> Element Has Attribute href",
+        "answer_1": "Yes",
+        "answer_2": "No It's for Anchor Tag <a>",
+        "answer_3": "All Elements Has This Attribute",
+        "answer_4": "Answer 1 and 3 are right",
+        "right_answer": "No It's for Anchor Tag <a>"
+    },
+    {
+        "title": "What does the abbreviation HTML stand for?",
+        "answer_1": "HyperText Markup Language.",
+        "answer_2": "HighText Markup Language.",
+        "answer_3": "HyperText Markdown Language.",
+        "answer_4": "None of the above.",
+        "right_answer": "HyperText Markup Language."
+    },
+    {
+        "title": "What is the smallest header in HTML by default?",
+        "answer_1": "h1",
+        "answer_2": "h2",
+        "answer_3": "h6",
+        "answer_4": "h4",
+        "right_answer": "h6"
+    },
+    {
+        "title": "How to create an ordered list in HTML?",
+        "answer_1": "<b>",
+        "answer_2": "<href>",
+        "answer_3": "<ol>",
+        "answer_4": "<ul>",
+        "right_answer": "<ol>"
+    },
+    {
+        "title": "We enclose HTML tags within?",
+        "answer_1": "{}",
+        "answer_2": "<>",
+        "answer_3": "!!",
+        "answer_4": "None of the above",
+        "right_answer": "<>"
+    },
+    {
+        "title": "What are the attributes used to change the size of an image?",
+        "answer_1": "Width and height",
+        "answer_2": "Big and Small",
+        "answer_3": "Top and bottom",
+        "answer_4": "None of the above",
+        "right_answer": "Width and height"
+    },
+    {
+        "title": "Which of the following properties is used to change the font of text?",
+        "answer_1": "font-family",
+        "answer_2": "font-size",
+        "answer_3": "text-align",
+        "answer_4": "None of the above",
+        "right_answer": "font-family"
+    }
+]
